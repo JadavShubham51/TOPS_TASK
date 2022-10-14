@@ -1,0 +1,40 @@
+Q.1> What is software? What is software engineering?
+
+A.1> Software:-The software is a collection of integrated programs.
+	       Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages. 
+	       Computer programs and related documentation such as requirements, design models and user manuals.
+
+     Software engineering :- Software Engineering is a systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system. 
+			     Learn CS Theory concepts for SDE interviews with the CS Theory Course at a student-friendly price and become industry ready.
+
+Q.2> Explain types of software?
+	
+A.2>	4 type of software
+	1> Application software :- this is the most common type of computer software, and can be defined as end-user programs that helps you perform tasks or achieve a desired outcome.
+				   the end-user is the person who is actually using a product or program.
+
+	2> system software:- System software helps the user, the computer or mobile device, and an application all work together seamlessly.
+			     This makes system software crucial to running any kind of application software as well as the whole computer system. 
+
+	3> Programming Software :-While application software is designed for end-users, and system software is designed for computers or mobile devices, programming software is for computer programmers and developers who are writing code.
+				 These are programs that are used to write, develop, test, and debug other software programs.
+				 It’s helpful to think of these programs as a translator of sorts: they take programming languages like Laravel, Python, C++, and more and translate them into something a computer or phone will understand. 
+
+	4> Driver Software :- This software is often considered to be a type of system software. Driver software operates and controls devices that are plugged into a computer.
+			      These drivers make it possible for devices to perform their necessary functions.
+
+Q.3> What is SDLC? Explain each phase of SDLC?
+
+A.3> SDLC:-Software development life cycle. the SDLC is a framework defining tasks performed at a each step in the software development process.
+	   the life cycle defines a methodology for improving the quality of software and the overall development process.
+	1.requirement
+	2.analysis
+	3.designing ==> GD/ Wd ::: static :- website change ni thay
+			   dynamic :- website any change to be developer
+	4. development :
+
+		 BE :- php,python,java,.net /
+		 FE :- react.js, angular.js
+
+	5.testing
+	6. maintainance
