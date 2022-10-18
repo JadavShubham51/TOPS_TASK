@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	int i,total_even;
+	int i,total_even,j=0;
 
 	
 	for(i=0;i<=10;i++)
@@ -10,9 +10,10 @@ int main()
 		if(i%2==0)
 		{
 			total_even = printf("Even number =%i\n",i);
+			j++
 		}
 	
 	}
-	printf("total_even=%i",total_even);
+	printf("total even number=%i",j);
 	return 0;
 }

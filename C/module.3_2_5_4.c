@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	int i,total_odd;
+	int i,total_odd,j=0;
 	
 	
 	for(i=0;i<=10;i++)
@@ -10,9 +10,10 @@ int main()
 		if(i%2!=0)
 		{
 			total_odd = printf("odd number =%i\n",i);
+			j++
 		}
 	
 	}
-	printf("total_odd=%i",total_odd);
+	printf("total_odd number=%i",j);
 	return 0;
 }
