@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-	int user,quantity,choice,total;
+	int user,quantity,choice,total,total_amount=0;
 	char a;
 	
 	restart:
@@ -63,7 +63,9 @@ int main()
 		total=50*choice;
 	}
 	
-	printf("Total Amount is= %d\n",total);
+	printf("Amount is= %d\n",total);
+	total_amount=total_amount+total;
+	printf("total amount = %d\n",total_amount);
 	printf("Do you want to place more orders ? Y/n :");
 	
 	order:
@@ -74,7 +76,7 @@ int main()
 	}
 	else if(a=='n' || a=='N')
 	{
-		printf("your Qty:%d Total Amount:%d",choice,total);
+		printf("Total Amount:%d",total_amount);
 	}
 	else
 	{
